@@ -1,0 +1,4 @@
+#Mon Feb 25 01:23:15 EET 2019
+base.0=C\:\\Users\\asus\\Documents\\flaredemo\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
